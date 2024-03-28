@@ -1,0 +1,32 @@
+[
+	{   "id":2,
+        "image":"src/img/plant2.png",
+        "name":"Chinese Money",
+        "price":1200
+    },
+	{   "id":3,
+        "image":"src/img/plant3.png",
+        "name":"Monstera Deliciosa",
+        "price":2200
+    },
+	{   "id":4,
+        "image":"src/img/plant4.png",
+        "name":"Chinese Shrub",
+        "price":1000
+    },
+	{   "id":5,
+        "image":"src/img/plant5.png",
+        "name":"Chinese pot",
+        "price":1200
+    },
+	{   "id":6,
+        "image":"src/img/plant6.png",
+        "name":"Chinese Herb",
+        "price":730
+    },
+    {   "id":11,
+        "image":"src/img/plant1.png",
+        "name":"Mini Bamboo",
+        "price":800
+    }
+]
